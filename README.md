@@ -13,13 +13,13 @@ Occlusion-Aware Visual Object Tracking with Explicit Temporal State Modeling and
 - [ ] Inference demo
 
 ## Get started
-# Installation
+### Installation
 
 ```bash
 pip install -e .
 ```
 
-# Download Checkpoint
+### Download Checkpoint
 
 ```bash
 cd checkpoints
