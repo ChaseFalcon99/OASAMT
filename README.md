@@ -8,3 +8,9 @@ Occlusion-Aware Visual Object Tracking with Explicit Temporal State Modeling and
 - [ ] Dataset instructions
 - [ ] Inference demo
 
+## Pretrained Models
+
+| Model | Download |
+|---|---|
+| TOC Model | [toc_best_model.pt](https://github.com/ChaseFalcon99/OASAMT/releases/download/v0.1/toc_best_model.pt) |
+| TOP Model | [top_best_model.pt](https://github.com/ChaseFalcon99/OASAMT/releases/download/v0.1/top_best_model.pt) |
