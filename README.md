@@ -1,14 +1,32 @@
 # OASAMT
+
 Occlusion-Aware Visual Object Tracking with Explicit Temporal State Modeling and Dual-Memory Mechanism
 
 ## TODO
+
+🚧The code and dataset are currently being organized and will be released soon.
+
 - [ ] Initial repository
 - [ ] Training code cleanup
 - [ ] Pretrained models
 - [ ] Dataset instructions
 - [ ] Inference demo
 
-## Pretrained Models
+## Get started
+# Installation
+
+```bash
+pip install -e .
+```
+
+# Download Checkpoint
+
+```bash
+cd checkpoints
+./download_ckpts.sh
+```
+
+## Download TOC and TOP Pretrained Models
 
 | Model | Download |
 |---|---|
