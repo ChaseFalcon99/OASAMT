@@ -4,7 +4,7 @@ Occlusion-Aware Visual Object Tracking with Explicit Temporal State Modeling and
 
 ## Environment
 
-This project is developed based on SAM 2 and uses the same environment configuration as the official SAM 2 implementation. Please follow the SAM 2 installation instructions to set up the required environment and dependencies.
+This project is developed based on [SAM 2](https://github.com/facebookresearch/sam2) and uses the same environment configuration as the official SAM 2 implementation. Please follow the [SAM 2 installation instructions](https://github.com/facebookresearch/sam2#installation) to set up the required environment and dependencies.
 
 ## Getting Started
 
